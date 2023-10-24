@@ -1,6 +1,26 @@
-hello
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>mlb-project.com</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="finalstyles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
 
-
-
-!
-im straight
+<div class="top">
+  <div class="bar black card">
+    <a class="bar-item button padding-large hide-medium hide-large right"></a>
+    <a href="#" class="bar-item button padding-large">HOME</a>
+    <a href="#mlb" class="bar-item button padding-large hide-small">MLB</a>
+    <a href="#games" class="bar-item button padding-large hide-small">UPCOMING GAMES</a>
+    <a href="#news" class="bar-item button padding-large hide-small">NEWS</a>
+    <a href="#highlights" class="bar-item button padding-large hide-small">HIGHLIGHTS</a>
+    <a href="#contact" class="bar-item button padding-large hide-small">CONTACT</a>
+    <a href="https://www.youtube.com/channel/UCoLrcjPV5PbUrUyXq5mjc_A"> <i class="fa fa-youtube"> </i> </a>
+    <a href="https://www.facebook.com/mlb"> <i class="fa fa-facebook"> </i> </a>
+    <a href="https://www.twitter.com/MLB"> <i class="fa fa-twitter"> </i> </a>
+    <a href="https://www.instagram.com/mlb"> <i class="fa fa-instagram"> </i> </a>
+  </div>
+</div>
